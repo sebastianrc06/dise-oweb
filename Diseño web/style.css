@@ -1,0 +1,33 @@
+body{
+    background-image: url(imagenes/4.jpg) ;
+}
+h2{
+ color: aquamarine;
+}
+h1{
+    color: aquamarine;
+}
+h4{
+    color:aquamarine; 
+}
+#tiposDatos{
+    color: aquamarine;
+}
+#saludo{
+    color: aquamarine;
+}
+#parImpar{
+    color: aquamarine;
+}
+#numeros{
+    color:aquamarine;
+}
+#diaLaborable{
+    color:aquamarine;
+}
+img {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    margin: 20px;
+  }
